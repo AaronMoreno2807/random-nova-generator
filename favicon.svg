@@ -1,0 +1,5 @@
+<!-- Para usar el SVG directamente -->
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+
+<!-- O si prefieres un favicon.ico tradicional -->
+<link rel="icon" type="image/x-icon" href="/favicon.ico">
