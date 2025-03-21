@@ -1,5 +1,6 @@
-<!-- Para usar el SVG directamente -->
-<link rel="icon" type="image/svg+xml" href="/favicon.svg">
 
-<!-- O si prefieres un favicon.ico tradicional -->
-<link rel="icon" type="image/x-icon" href="/favicon.ico">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <circle cx="12" cy="12" r="10" fill="#4a80ff" stroke="#2563eb" />
+  <path d="M8 12h8" stroke="white" />
+  <path d="M12 8v8" stroke="white" />
+</svg>
